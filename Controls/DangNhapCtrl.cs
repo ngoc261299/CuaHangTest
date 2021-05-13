@@ -18,8 +18,7 @@ namespace QuanLyCuaHangTienLoi.Controls
             return nvMod.User(nvObj);
 
             //Chào bạn tôi là dự
-            ///adadadadada
-            ///Ngọc ngáo quá rồi
+           //tôi là dự đây
         }
 
         public DataTable GetDataByUser(NhanVien nvObj)
