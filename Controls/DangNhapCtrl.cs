@@ -19,6 +19,7 @@ namespace QuanLyCuaHangTienLoi.Controls
 
             //Chào bạn tôi là dự
             ///adadadadada
+            ///Ngọc ngáo quá rồi
         }
 
         public DataTable GetDataByUser(NhanVien nvObj)
