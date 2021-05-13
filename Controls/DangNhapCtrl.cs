@@ -16,6 +16,9 @@ namespace QuanLyCuaHangTienLoi.Controls
         public bool User(NhanVien nvObj)
         {
             return nvMod.User(nvObj);
+
+
+            ///adadadadada
         }
 
         public DataTable GetDataByUser(NhanVien nvObj)
