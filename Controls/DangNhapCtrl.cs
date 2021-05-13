@@ -17,7 +17,7 @@ namespace QuanLyCuaHangTienLoi.Controls
         {
             return nvMod.User(nvObj);
 
-
+            //Chào bạn tôi là dự
             ///adadadadada
         }
 
